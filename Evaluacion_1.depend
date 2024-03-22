@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1711078137 source:c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\evaluacion_1\main.cpp
+	<iostream>
+	"Cliente.h"
+	"Fecha.h"
+	"Prestamo.h"
+	"Pago.h"
+	"stdlib.h"
+
+1711076565 c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\evaluacion_1\include\cliente.h
+	<iostream>
+
+1711076565 c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\evaluacion_1\include\fecha.h
+
+1711076565 c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\evaluacion_1\include\prestamo.h
+	"Cliente.h"
+	"Fecha.h"
+	"Pago.h"
+
+1711076565 c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\evaluacion_1\include\pago.h
+	"Fecha.h"
+
+1711076565 source:c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\evaluacion_1\src\cliente.cpp
+	"Cliente.h"
+
+1711076565 source:c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\evaluacion_1\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1711076565 source:c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\evaluacion_1\src\pago.cpp
+	"Pago.h"
+
+1711076565 source:c:\users\carlo\documents\uso\cicl03\programacion ii\laboratorio de programacion\evaluacion_1\src\prestamo.cpp
+	"Prestamo.h"
+
